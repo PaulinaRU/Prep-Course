@@ -1,0 +1,28 @@
+h1{
+    color: red;
+}
+img{
+    width: 400px;
+    position: relative;
+    top: -45px;
+}
+#thirdDiv{
+    margin: 0 auto;
+    height: 600px;
+    width: 500;
+    background-color: aqua;
+    padding: 50px;
+    border: 10px solid black;
+
+
+}
+#spanId{
+font-size: 18px;
+margin: 50px
+}
+body{
+    background-image: url("https://previews.123rf.com/images/katrinarefur/katrinarefur1703/katrinarefur170300004/74355957-patr%C3%B3n-de-vector-con-comida-sana-fondo-de-pantalla-verde-fondo-de-alimentos-crudos-.jpg");
+}
+.divclass{
+    text-align: center;
+}
